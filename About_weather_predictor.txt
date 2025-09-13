@@ -1,0 +1,22 @@
+                  Flight Safety Weather Predictor
+
+This project helps check whether it is safe to fly based on weather conditions.
+It takes in four important weather parameters:
+
+1. Wind speed (knots)
+2. Temperature (°C)
+3. Air pressure (hPa)
+4. Visibility (miles)
+
+The program then:
+Calculates a safety score for each parameter.
+Averages the scores to give a final result:
+
+*Safe to fly
+*Fly with caution
+*Unsafe to fly
+
+Shows a bar graph using matplotlib so you can visualize how each factor affects flight safety.
+You can either:
+Enter your own weather data (with an option to get real values from Windy.com)
+Or let the program generate random weather conditions for testing.

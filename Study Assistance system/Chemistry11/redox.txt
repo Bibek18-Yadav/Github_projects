@@ -1,0 +1,30 @@
+CHEMISTRY – Grade 11 (Nepal Curriculum)
+------------------------------------------------
+
+1. OXIDATION AND REDUCTION (REDOX REACTIONS)
+- **Introduction:** Oxidation-Reduction (Redox) reactions involve transfer of electrons between substances.
+- **Oxidation:** Loss of electrons or increase in oxidation state.
+- **Reduction:** Gain of electrons or decrease in oxidation state.
+- **Oxidizing Agent:** Substance that gets reduced and causes oxidation of another.
+- **Reducing Agent:** Substance that gets oxidized and causes reduction of another.
+- **Oxidation Number (O.N.):** Charge assigned to an atom in a molecule or ion based on electron distribution.
+- **Rules to Assign O.N.:**
+  - Free element: 0
+  - Monoatomic ion: equal to its charge
+  - Oxygen: usually -2 (except in peroxides)
+  - Hydrogen: +1 (except in metal hydrides)
+  - Sum of O.N. in molecule = 0; in polyatomic ion = charge of ion
+- **Types of Redox Reactions:**
+  - Combination reactions
+  - Decomposition reactions
+  - Displacement reactions
+  - Disproportionation reactions (same element oxidized and reduced)
+- **Examples:**
+  - Zn + Cu²⁺ → Zn²⁺ + Cu
+  - 2H₂O₂ → 2H₂O + O₂
+
+SUMMARY
+- **Oxidation-Reduction:** Focuses on electron transfer; essential for electrochemistry and metabolic reactions.
+------------------------------------------------
+------------------COPY THE LINK BELOW FOR DETAILED VIDEO--------------------
+            https://www.youtube.com/watch?v=c06C1t0PnGk&list=PLTpsEaEiWczjpQ4bPDtfZa6cKie5wUU0m

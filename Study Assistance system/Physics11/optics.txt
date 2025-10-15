@@ -1,0 +1,108 @@
+WAVE AND OPTICS – Grade 11 Physics (Nepal Curriculum)
+-----------------------------------------------------
+
+1. INTRODUCTION
+Wave and Optics is the branch of physics that deals with the study of waves, their properties, and the behavior of light. 
+It explains phenomena like reflection, refraction, interference, diffraction, and polarization. 
+This topic helps us understand how sound and light travel and interact with different media.
+
+-----------------------------------------------------
+2. WAVE MOTION
+- Definition: A wave is a disturbance that transfers energy from one point to another without the transfer of matter.
+- Types of Waves:
+  (a) Mechanical Waves – require a medium (e.g., sound waves).
+  (b) Electromagnetic Waves – do not require a medium (e.g., light waves).
+  (c) Transverse Waves – particles vibrate perpendicular to direction of propagation.
+  (d) Longitudinal Waves – particles vibrate parallel to direction of propagation.
+- Characteristics of Waves:
+  Wavelength (λ), Frequency (f), Amplitude (A), Time Period (T), Wave Velocity (v = fλ).
+- Equation of a Progressive Wave: y = A sin(ωt ± kx)
+
+-----------------------------------------------------
+3. SOUND WAVES
+- Nature: Longitudinal mechanical waves produced by vibrating bodies.
+- Speed of Sound: Depends on temperature, density, and elasticity of medium.
+  v = √(B/ρ)
+- Intensity and Loudness: Related to energy of wave; loudness ∝ amplitude².
+- Pitch and Quality: Depend on frequency and waveform respectively.
+- Reflection of Sound: Leads to Echo and Reverberation.
+- Resonance: Large amplitude vibration when frequency of external force matches natural frequency.
+
+-----------------------------------------------------
+4. SUPERPOSITION AND INTERFERENCE OF WAVES
+- Principle of Superposition: When two or more waves overlap, the resultant displacement is the algebraic sum of individual displacements.
+- Interference: The phenomenon of redistribution of energy due to superposition of waves.
+  (a) Constructive Interference: Waves add up (crest + crest).
+  (b) Destructive Interference: Waves cancel (crest + trough).
+- Conditions for Sustained Interference:
+  (i) Waves must be coherent (same frequency and constant phase difference).
+  (ii) Waves should have same amplitude.
+  (iii) Waves should travel in the same region.
+
+-----------------------------------------------------
+5. STATIONARY WAVES
+- Definition: Formed when two identical waves traveling in opposite directions interfere.
+- Characteristics:
+  - Nodes (zero displacement points)
+  - Antinodes (maximum displacement points)
+- Examples: Vibrations in strings and air columns.
+- Equation: y = 2A sin(kx) cos(ωt)
+- Applications: Used in musical instruments, resonance tubes, etc.
+
+-----------------------------------------------------
+6. LIGHT AS A WAVE (WAVE THEORY OF LIGHT)
+- Proposed by Huygens: Light travels as a wavefront.
+- Wavefront: Locus of all points vibrating in the same phase.
+- Types of Wavefronts: Plane, spherical, and cylindrical.
+- Huygens’ Principle:
+  Every point on a wavefront acts as a secondary source, and the new wavefront is the tangent to all secondary wavelets.
+- Explains reflection and refraction of light successfully.
+
+-----------------------------------------------------
+7. REFLECTION AND REFRACTION OF LIGHT
+- Reflection: Bouncing back of light from a surface.
+  Laws of Reflection:
+    (i) Angle of incidence = Angle of reflection.
+    (ii) Incident ray, reflected ray, and normal lie in the same plane.
+- Refraction: Bending of light as it passes from one medium to another.
+  Snell’s Law: (sin i)/(sin r) = μ₂/μ₁
+- Refractive Index: Ratio of speed of light in vacuum to that in medium.
+- Total Internal Reflection: Occurs when light travels from denser to rarer medium and angle of incidence > critical angle.
+  Applications: Optical fibers, prisms.
+
+-----------------------------------------------------
+8. LENSES AND MIRRORS
+- Spherical Mirrors: Concave and Convex.
+  Mirror Formula: 1/f = 1/v + 1/u
+- Lenses: Convex (converging) and Concave (diverging).
+  Lens Formula: 1/f = 1/v - 1/u
+- Power of Lens: P = 1/f (in diopters)
+- Combination of Lenses: Effective focal length and power.
+- Applications: Optical instruments like microscopes and telescopes.
+
+-----------------------------------------------------
+9. INTERFERENCE OF LIGHT (YOUNG’S DOUBLE SLIT EXPERIMENT)
+- Demonstrates the wave nature of light.
+- Bright and dark fringes formed due to constructive and destructive interference.
+- Fringe Width: β = λD/d
+  where D = distance between slits and screen, d = distance between slits.
+- Conditions for Interference: Coherent light sources required.
+
+-----------------------------------------------------
+10. DIFFRACTION AND POLARIZATION
+- Diffraction: Bending of light around edges or obstacles.
+  - More prominent when size of obstacle ≈ wavelength of light.
+- Polarization: Restricting vibration of light to a single plane.
+  - Demonstrates transverse nature of light waves.
+  - Methods: Reflection, refraction, and polarizing filters.
+
+-----------------------------------------------------
+SUMMARY
+Wave and Optics deals with the behavior and properties of sound and light as waves. 
+It explains how waves propagate, interfere, and diffract, and how light interacts with matter. 
+Understanding these principles helps in developing modern optical devices, communication systems, and scientific instruments.
+
+-----------------------------------------------------
+
+-------------------COPY THE LINK BELOW TO GET DETAILED VIDEO---------------------
+          https://www.youtube.com/watch?v=G6uFmv-GJ_g&list=PL-azVpkdqFe2SjrQ_UO-l1sZm1Hme8cWv

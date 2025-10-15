@@ -1,0 +1,58 @@
+INFORMATION AND SECURITY LAW – Grade 11 Computer Science (Nepal Curriculum)
+----------------------------------------------------------------------------
+
+1. INTRODUCTION
+Information and Security Law deals with legal aspects related to information technology, data protection, and cybersecurity. It ensures the ethical, safe, and legal use of digital information and computer systems.
+
+---------------------------------------------------------------------------- 
+2. INFORMATION LAW
+- Information Law: Governs the collection, storage, distribution, and use of information.
+- Key Focus:
+  - Intellectual Property Rights (IPR): Protects creations of the mind like software, algorithms, and databases.
+  - Copyright: Legal rights given to creators of original works.
+  - Patents: Exclusive rights for inventions or technological innovations.
+  - Trade Secrets: Protection of confidential business information.
+
+---------------------------------------------------------------------------- 
+3. CYBER LAW / COMPUTER LAW
+- Cyber Law: Legal regulations related to use of computers, internet, and digital communication.
+- Key Areas:
+  - Digital Contracts: Legally binding agreements in electronic form.
+  - Digital Signatures: Authentication of digital messages or documents.
+  - Cyber Crimes: Illegal acts like hacking, identity theft, phishing, cyberstalking.
+  - Data Protection Laws: Rules for protecting personal and sensitive data.
+
+---------------------------------------------------------------------------- 
+4. INFORMATION SECURITY
+- Information Security: Protecting information systems from unauthorized access, use, disclosure, disruption, modification, or destruction.
+- Key Principles:
+  - Confidentiality: Ensuring information is accessible only to authorized users.
+  - Integrity: Maintaining accuracy and completeness of data.
+  - Availability: Ensuring reliable access to information when needed.
+- Security Measures:
+  - Authentication: Verifying user identity.
+  - Encryption: Converting information into a secure code to prevent unauthorized access.
+  - Firewalls: Barrier to prevent unauthorized network access.
+  - Antivirus & Anti-malware: Protect systems from malicious software.
+
+---------------------------------------------------------------------------- 
+5. PRIVACY AND ETHICS
+- Privacy: Right of individuals to control personal information.
+- Ethical Use of Technology:
+  - Avoiding software piracy.
+  - Respecting digital copyrights.
+  - Responsible online behavior.
+
+---------------------------------------------------------------------------- 
+6. LEGAL AND REGULATORY FRAMEWORK IN NEPAL
+- IT Act and Cybercrime Act: Laws governing digital transactions and cybercrime in Nepal.
+- Data Protection Rules: Guidelines for storing and processing personal data.
+- Penalties: Legal consequences for violations like hacking, identity theft, or unauthorized data access.
+
+---------------------------------------------------------------------------- 
+SUMMARY
+Information and Security Law ensures the safe, legal, and ethical use of information and computer systems. 
+It protects individuals, organizations, and governments against cybercrime, data breaches, and misuse of information, forming a crucial part of modern computer education.
+----------------------------------------------------------------------------
+------------------------COPY THE LINK BELOW FOR DETAILED VIDEO-------------------------------
+           https://www.youtube.com/watch?v=_YGbg2ifH3k

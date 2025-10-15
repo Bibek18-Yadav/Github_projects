@@ -1,0 +1,93 @@
+HEAT AND THERMODYNAMICS – Grade 11 Physics (Nepal Curriculum)
+--------------------------------------------------------------
+
+1. INTRODUCTION
+Heat and Thermodynamics is the branch of physics that deals with the study of heat, temperature, and the laws governing the conversion of heat energy into other forms of energy. It explains how energy is transferred between systems and how it affects matter.
+
+--------------------------------------------------------------
+2. TEMPERATURE AND HEAT
+- Temperature: Measure of the degree of hotness or coldness of a body.
+- Thermometer: Device used to measure temperature (e.g., Mercury thermometer, Gas thermometer).
+- Temperature Scales: Celsius, Fahrenheit, Kelvin and their conversions.
+- Heat: Form of energy transferred due to temperature difference.
+- SI Unit of Heat: Joule (J)
+- Relation between Heat and Temperature Change: Q = mcΔT
+
+--------------------------------------------------------------
+3. EXPANSION OF SOLIDS, LIQUIDS, AND GASES
+- Thermal Expansion: Increase in size of a body due to rise in temperature.
+  (a) Linear Expansion: ΔL = LαΔT
+  (b) Superficial Expansion: ΔA = AβΔT
+  (c) Cubical Expansion: ΔV = VγΔT
+- Relation: γ = 3α
+- Apparent and Real Expansion of Liquids: Expansion observed when liquid is heated in a container.
+- Anomalous Expansion of Water: Water contracts between 0°C and 4°C, and expands above 4°C.
+
+--------------------------------------------------------------
+4. QUANTITY OF HEAT AND CALORIMETRY
+- Specific Heat Capacity (c): Amount of heat required to raise temperature of 1 kg of substance by 1°C.
+- Principle of Calorimetry: Heat lost = Heat gained
+- Latent Heat:
+  - Latent Heat of Fusion: Heat required to change solid to liquid without temperature change.
+  - Latent Heat of Vaporization: Heat required to change liquid to vapor.
+- Change of State: Solid ↔ Liquid ↔ Gas
+- Cooling Curve and Heating Curve
+
+--------------------------------------------------------------
+5. TRANSMISSION OF HEAT
+- Conduction: Transfer of heat through a material without actual movement of particles.
+  Equation: Q = (kAΔTt)/L
+- Convection: Transfer of heat due to actual movement of fluid particles.
+- Radiation: Transfer of heat through electromagnetic waves without any medium.
+- Good and Bad Absorbers: Dark surfaces absorb and emit more radiation.
+
+--------------------------------------------------------------
+6. GASES AND GAS LAWS
+- Boyle’s Law: At constant temperature, pressure is inversely proportional to volume (PV = constant).
+- Charles’ Law: At constant pressure, volume is directly proportional to temperature (V/T = constant).
+- Gay-Lussac’s Law: At constant volume, pressure is directly proportional to temperature (P/T = constant).
+- Ideal Gas Equation: PV = nRT
+- Universal Gas Constant (R): 8.314 J/mol·K
+
+--------------------------------------------------------------
+7. KINETIC THEORY OF GASES
+- Assumptions: Gas molecules are very small, move randomly, and collisions are perfectly elastic.
+- Pressure of Gas: Due to collisions of molecules with walls of container.
+- Kinetic Energy: KE = (3/2)kT (per molecule) or (3/2)RT (per mole)
+- Root Mean Square (RMS) Speed: v_rms = √(3RT/M)
+
+--------------------------------------------------------------
+8. THERMODYNAMICS
+- System: A part of the universe chosen for study (open, closed, or isolated).
+- Surroundings: Everything outside the system.
+- Thermodynamic Variables: Pressure (P), Volume (V), Temperature (T).
+- Thermodynamic Processes:
+  (a) Isothermal (T constant)
+  (b) Adiabatic (Q = 0)
+  (c) Isochoric (V constant)
+  (d) Isobaric (P constant)
+
+--------------------------------------------------------------
+9. LAWS OF THERMODYNAMICS
+1. Zeroth Law: If two bodies are in thermal equilibrium with a third, they are in equilibrium with each other.
+2. First Law: Heat supplied = Increase in internal energy + Work done
+   (Q = ΔU + W)
+3. Second Law: Heat cannot completely be converted into work; some energy is always lost as waste heat.
+4. Third Law: Entropy of a perfect crystal at absolute zero is zero.
+
+--------------------------------------------------------------
+10. HEAT ENGINES AND REFRIGERATORS
+- Heat Engine: Device that converts heat energy into mechanical work.
+  Efficiency = Work Output / Heat Input
+- Carnot Engine: Theoretical reversible engine with maximum possible efficiency.
+- Refrigerator: Device that transfers heat from a cold region to a hot region using external work.
+  Coefficient of Performance (COP) = Heat Extracted / Work Done
+
+--------------------------------------------------------------
+SUMMARY
+Heat and Thermodynamics explains how heat flows, how it affects matter, and how energy is conserved and transformed.
+It provides the basis for understanding engines, refrigerators, and many natural processes like weather patterns and heat balance of Earth.
+
+--------------------------------------------------------------
+----------------COPY THE LINK BELOW TO GET DETAILED VIDEO---------------------
+      https://www.youtube.com/watch?v=a6tz3-FDh_I&list=PLWPirh4EWFpGn56dhbMS5veWuVKGU6_QS

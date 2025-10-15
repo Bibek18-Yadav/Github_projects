@@ -1,0 +1,60 @@
+MULTIMEDIA – Grade 11 Computer Science (Nepal Curriculum)
+------------------------------------------------
+
+1. INTRODUCTION
+Multimedia is the integration of multiple forms of media, such as text, images, audio, video, and animations, into a single interactive system. It is widely used in education, entertainment, advertising, and web applications. Multimedia makes information more engaging and easier to understand.
+
+------------------------------------------------
+2. TYPES OF MULTIMEDIA
+- Text: Written content, captions, and descriptions.
+- Graphics/Images: Pictures, drawings, and vector/raster images.
+- Audio: Sound effects, speech, and music.
+- Video: Moving images with sound.
+- Animation: Sequence of images creating motion.
+- Interactivity: User-controlled multimedia applications.
+
+------------------------------------------------
+3. MULTIMEDIA HARDWARE
+- Input Devices: Keyboard, mouse, scanner, microphone, digital camera.
+- Output Devices: Monitor, printer, speakers, projectors.
+- Storage Devices: Hard drives, CDs/DVDs, flash drives for multimedia content.
+- Processing Devices: CPU, GPU for handling multimedia data.
+
+------------------------------------------------
+4. MULTIMEDIA SOFTWARE
+- Authoring Tools: Software for creating multimedia content (e.g., Adobe Animate, Flash, PowerPoint).
+- Editing Software: Tools to modify audio, video, and images (e.g., Photoshop, Audacity, Premiere Pro).
+- Multimedia Players: Programs to play multimedia files (e.g., VLC, Windows Media Player).
+- Web-based Tools: Platforms for interactive multimedia applications.
+
+------------------------------------------------
+5. MULTIMEDIA APPLICATIONS
+- Education: E-learning, simulations, tutorials.
+- Entertainment: Movies, games, music videos.
+- Advertising: Interactive ads, banners, promotional videos.
+- Communication: Video conferencing, online presentations.
+- Virtual Reality (VR) and Augmented Reality (AR): Immersive multimedia experiences.
+
+------------------------------------------------
+6. MULTIMEDIA FORMATS
+- Image Formats: JPEG, PNG, GIF, BMP.
+- Audio Formats: MP3, WAV, AAC.
+- Video Formats: MP4, AVI, MKV.
+- Animation Formats: SWF, GIF, Flash animations.
+- Considerations: Compression, quality, file size, compatibility.
+
+------------------------------------------------
+7. MULTIMEDIA DEVELOPMENT PROCESS
+- Planning: Define objectives and audience.
+- Design: Layout, storyboard, and interface.
+- Production: Creating and assembling media components.
+- Testing: Checking for errors, usability, and performance.
+- Deployment: Releasing multimedia application for use.
+- Maintenance: Updating content and fixing issues.
+
+------------------------------------------------
+SUMMARY
+Multimedia combines text, images, audio, video, and animations to create interactive and engaging applications. It plays a vital role in education, entertainment, communication, and business. Understanding multimedia hardware, software, formats, and development processes is essential for creating effective multimedia solutions.
+------------------------------------------------
+-------------------------COPY THE LINK BELOW FOR DETAILED VIDEO----------------------------------
+             https://www.youtube.com/watch?v=_vrF21vlolU

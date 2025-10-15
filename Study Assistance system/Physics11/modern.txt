@@ -1,0 +1,106 @@
+MODERN PHYSICS – Grade 11 Physics (Nepal Curriculum)
+----------------------------------------------------
+
+1. INTRODUCTION
+Modern Physics is the branch of physics that deals with the study of phenomena occurring at atomic and subatomic levels. 
+It extends beyond classical physics to explain concepts such as the structure of atoms, photoelectric effect, wave-particle duality, radioactivity, and nuclear reactions.
+It forms the foundation of technologies like semiconductors, lasers, and nuclear energy.
+
+----------------------------------------------------
+2. DUAL NATURE OF RADIATION AND MATTER
+- Light and particles show both wave and particle properties, known as wave-particle duality.
+- Photoelectric Effect:
+  - Discovered by Heinrich Hertz and explained by Albert Einstein.
+  - When light of sufficient frequency falls on a metal surface, electrons are emitted.
+  - Important equations:
+    E = hf = hc/λ
+    KE_max = hf - Φ
+  - Where Φ = work function of metal.
+- de Broglie Hypothesis:
+  - Every moving particle has an associated wavelength.
+  - λ = h / p = h / mv
+- Davisson and Germer Experiment:
+  - Verified wave nature of electrons through electron diffraction.
+
+----------------------------------------------------
+3. ATOMIC STRUCTURE
+- Discovery of Electron (J.J. Thomson), Proton (Goldstein), and Neutron (Chadwick).
+- Thomson’s Model:
+  - Atom as a positive sphere with embedded electrons (“plum pudding model”).
+- Rutherford’s Model:
+  - Discovered nucleus through alpha particle scattering experiment.
+  - Concluded that most of the atom’s mass is concentrated in the nucleus.
+  - Failed to explain stability of atom.
+- Bohr’s Atomic Model:
+  - Electrons revolve in discrete orbits without radiating energy.
+  - Energy levels are quantized: En = -13.6 eV / n²
+  - Energy emitted or absorbed when electrons jump between orbits: ΔE = hf
+- Hydrogen Spectrum:
+  - Explained by Bohr’s model using the equation:
+    1/λ = R(1/n₁² - 1/n₂²)
+
+----------------------------------------------------
+4. NUCLEAR PHYSICS
+- Nucleus: Central part of atom containing protons and neutrons (nucleons).
+- Atomic Number (Z): Number of protons.
+- Mass Number (A): Number of protons + neutrons.
+- Isotopes: Same Z, different A.
+- Isobars: Same A, different Z.
+- Isotones: Same number of neutrons.
+- Nuclear Forces:
+  - Very strong, short-range, attractive forces between nucleons.
+- Binding Energy:
+  - Energy required to separate nucleus into its nucleons.
+  - Binding energy per nucleon indicates nuclear stability.
+- Mass Defect: Δm = (Zmp + Nmn) - M(actual)
+  - Binding Energy: E = Δm c²
+
+----------------------------------------------------
+5. RADIOACTIVITY
+- Discovered by Henri Becquerel.
+- Spontaneous emission of particles and energy from unstable nuclei.
+- Types of Radioactive Decay:
+  - Alpha (α): Emission of ⁴₂He nucleus; decreases A by 4 and Z by 2.
+  - Beta (β): Emission of electron or positron; changes Z by ±1.
+  - Gamma (γ): Emission of high-energy photons; no change in A or Z.
+- Radioactive Law:
+  - N = N₀ e^(-λt)
+  - Activity (A) = λN
+  - Half-life (T½) = 0.693 / λ
+- Uses: Carbon dating, medical treatment, power generation.
+
+----------------------------------------------------
+6. NUCLEAR ENERGY AND REACTIONS
+- Nuclear Fission:
+  - Splitting of a heavy nucleus (e.g., U-235) into smaller nuclei releasing large energy.
+  - Used in nuclear reactors and atomic bombs.
+- Nuclear Fusion:
+  - Combining of two light nuclei to form a heavier one with release of energy.
+  - Example: ²H + ³H → ⁴He + n + Energy
+  - Occurs in the sun and hydrogen bombs.
+- Einstein’s Mass-Energy Relation:
+  - E = mc²
+  - Shows equivalence between mass and energy.
+
+----------------------------------------------------
+7. X-RAYS
+- Discovered by Wilhelm Roentgen.
+- Produced when high-speed electrons strike a metal target (anticathode) in X-ray tube.
+- Types:
+  - Continuous (Bremsstrahlung) X-rays.
+  - Characteristic X-rays.
+- Properties:
+  - Highly penetrating, affect photographic plates, ionize gases, and produce fluorescence.
+- Uses:
+  - Medical imaging, crystallography, and security scanning.
+
+----------------------------------------------------
+SUMMARY
+Modern Physics explains the microscopic world that classical physics cannot describe. 
+It introduces quantum theory, atomic and nuclear structures, and energy conversion principles.
+The concepts of Modern Physics have revolutionized technology — from semiconductors and lasers to nuclear reactors and quantum computing.
+
+----------------------------------------------------
+
+------------------COPY THE LINK BELOW FOR DETAILED VIDEO---------------------------
+           https://www.youtube.com/watch?v=yYX3kuGsPrA&list=PLKNBJf-C1jEt9DuwAbJLQ9WaIoxL8-eLP

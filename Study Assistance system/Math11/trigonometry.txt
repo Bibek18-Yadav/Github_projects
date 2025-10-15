@@ -1,0 +1,52 @@
+--- Trigonometry — Grade 11 (Nepal) ---
+
+1. Properties of a Triangle
+   • Sine Law: a/sin A = b/sin B = c/sin C
+   • Cosine Law: c² = a² + b² – 2ab cos C (and its variants)
+   • Tangent Law: (a – b)/(a + b) = tan((A – B)/2) / tan((A + B)/2)
+   • Projection Formula: b = c cos A + a cos C
+   • Half-Angle Formulas: sin(A/2) = √[(s – b)(s – c)/(bc)], etc.
+
+2. Solution of a Triangle
+   • Given SAS: Use Cosine Law to find the third side, then Sine Law for remaining angles.
+   • Given ASA or AAS: Use Sine Law to find unknown sides.
+   • Given SSA: Ambiguous case — may have 0, 1, or 2 possible triangles.
+   • Area of a Triangle: (1/2) ab sin C, or √[s(s – a)(s – b)(s – c)].
+
+3. Inverse Trigonometric Functions and Trigonometric Equations
+   • Definition: y = arcsin(x), y = arccos(x), y = arctan(x)
+   • Domains and Ranges: 
+       sin⁻¹(x) → x ∈ [–1, 1], y ∈ [–π/2, π/2]
+       cos⁻¹(x) → x ∈ [–1, 1], y ∈ [0, π]
+       tan⁻¹(x) → x ∈ ℝ, y ∈ (–π/2, π/2)
+   • General Solutions:
+       sin θ = k → θ = nπ + (–1)ⁿ arcsin(k)
+       cos θ = k → θ = ±arccos(k) + 2nπ
+       tan θ = k → θ = arctan(k) + nπ
+   • Double and Multiple Angle Identities: sin 2A, cos 2A, tan 2A, etc.
+
+4. Key Trigonometric Identities
+   • sin²θ + cos²θ = 1
+   • 1 + tan²θ = sec²θ ; 1 + cot²θ = cosec²θ
+   • sin(A ± B) = sin A cos B ± cos A sin B
+   • cos(A ± B) = cos A cos B ∓ sin A sin B
+   • sin 2A = 2 sin A cos A
+   • cos 2A = cos²A – sin²A = 1 – 2 sin²A = 2 cos²A – 1
+
+5. Quadrants and Signs of Trigonometric Functions
+   • I Quadrant (0°–90°): All positive
+   • II Quadrant (90°–180°): Only sine positive
+   • III Quadrant (180°–270°): Only tangent positive
+   • IV Quadrant (270°–360°): Only cosine positive
+   • Even/Odd Properties: sin(–θ) = –sin θ, cos(–θ) = cos θ, tan(–θ) = –tan θ
+
+6. Applications of Trigonometry
+   • Heights and Distances
+   • Use in Geometry (e.g., finding sides and angles in polygons)
+   • Proving Trigonometric Identities
+   • Graphs of sin, cos, tan functions (optional topic)
+
+--- End of Trigonometry Notes ---
+
+*****************COPY THIS LINK OF YOUTUBE VIDEO TO GET DETAILED EXPLANATION*********************************
+           https://www.youtube.com/watch?v=Ci83kXkJriE

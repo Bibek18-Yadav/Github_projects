@@ -1,0 +1,62 @@
+INORGANIC CHEMISTRY – Grade 11 Chemistry (Nepal Curriculum)
+------------------------------------------------------------
+
+1. INTRODUCTION
+Inorganic Chemistry is the branch of chemistry that deals with the study of **elements and their compounds**, except most organic compounds. 
+It includes the study of structure, properties, reactions, and uses of metals, non-metals, and their compounds.
+
+------------------------------------------------------------
+2. CLASSIFICATION OF ELEMENTS
+- **Periodic Table:** Arrangement of elements based on increasing atomic number and recurring properties.
+- **Groups:** Vertical columns; elements have similar chemical properties (e.g., Alkali metals, Halogens).
+- **Periods:** Horizontal rows; show gradual change in properties.
+- **Classification by Properties:** Metals, Non-metals, Metalloids.
+
+------------------------------------------------------------
+3. CHEMICAL BONDING
+- **Ionic Bonding:** Transfer of electrons between metals and non-metals (e.g., NaCl).
+- **Covalent Bonding:** Sharing of electrons between non-metals (e.g., H2O, CO2).
+- **Metallic Bonding:** Delocalized electrons in metals, giving conductivity and malleability.
+- **Coordinate (Dative) Bonding:** One atom donates both electrons in a bond (e.g., NH4+).
+
+------------------------------------------------------------
+4. STATES OF MATTER AND STRUCTURE
+- **Atomic Structure:** Electrons, protons, neutrons; electron configuration.
+- **Ionic Compounds:** Form lattice structures; high melting and boiling points.
+- **Covalent Compounds:** Molecular structures; low melting and boiling points.
+- **Metallic Structure:** Sea of delocalized electrons.
+
+------------------------------------------------------------
+5. REACTIVITY OF ELEMENTS
+- **Alkali Metals:** Highly reactive; react with water to form hydroxides.
+- **Alkaline Earth Metals:** Less reactive than alkali metals.
+- **Halogens:** Reactive non-metals; react with metals to form salts.
+- **Noble Gases:** Chemically inert; very low reactivity.
+
+------------------------------------------------------------
+6. ACIDS, BASES, AND SALTS
+- **Acids:** Proton donors (Arrhenius and Bronsted-Lowry definitions).
+- **Bases:** Proton acceptors or OH⁻ donors.
+- **Neutralization:** Acid + Base → Salt + Water
+- **pH Concept:** Measure of acidity or alkalinity of a solution.
+
+------------------------------------------------------------
+7. OXIDATION AND REDUCTION
+- **Oxidation:** Loss of electrons.
+- **Reduction:** Gain of electrons.
+- **Oxidation Number:** Helps identify redox reactions.
+- **Redox Reactions:** Simultaneous occurrence of oxidation and reduction.
+
+------------------------------------------------------------
+8. METALLURGY
+- **Extraction of Metals:** Process of obtaining metals from ores.
+- **Reduction Methods:** Electrolytic and chemical reduction.
+- **Refining:** Purification of metals (e.g., electrorefining of copper).
+
+------------------------------------------------------------
+SUMMARY
+Inorganic Chemistry provides the foundation to understand **chemical behavior of elements**, their compounds, and industrial applications. 
+It helps in explaining **bonding, reactivity, and the preparation of substances** used in everyday life and scientific research.
+------------------------------------------------------------
+---------------------COPY THE LINK BELOW FOR THE DETAILED VIDEO-----------------------
+          https://www.youtube.com/watch?v=AlfITekjCAs&list=PLD3DyzwF8mP9PsyFApmmxMOflP_voCHTL

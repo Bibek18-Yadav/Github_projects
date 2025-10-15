@@ -1,0 +1,52 @@
+Statistics and Probability – Grade 11 Overview
+
+1. Measures of Central Tendency
+- Mean: The arithmetic average of a data set.
+- Median: The middle value when data is ordered.
+- Mode: The most frequently occurring value.
+
+2. Measures of Dispersion
+- Range: Difference between the highest and lowest values.
+- Variance: Average of the squared differences from the mean.
+- Standard Deviation: Square root of the variance, indicating data spread.
+
+3. Skewness
+- Positive Skew: Tail on the right side; mean > median.
+- Negative Skew: Tail on the left side; mean < median.
+- Symmetrical Distribution: Mean = median.
+
+4. Probability
+- Basic Probability: Likelihood of an event occurring.
+- Addition Rule: For mutually exclusive events: P(A ∪ B) = P(A) + P(B).
+- Multiplication Rule: For independent events: P(A ∩ B) = P(A) × P(B).
+- Conditional Probability: Probability of an event given another has occurred.
+- Bayes' Theorem: Calculates the probability of an event based on prior knowledge.
+
+5. Random Variables and Probability Distributions
+- Discrete Random Variables: Take specific values (e.g., number of heads in coin tosses).
+- Continuous Random Variables: Take any value within a range (e.g., height, weight).
+- Probability Distribution: Describes the likelihood of each possible value.
+
+6. Sampling and Sampling Distributions
+- Population vs. Sample: Population is the entire group; sample is a subset.
+- Sampling Methods: Random, stratified, cluster, and systematic sampling.
+- Central Limit Theorem: The distribution of sample means approaches a normal distribution as sample size increases.
+
+7. Estimation of Parameters
+- Point Estimation: Single value estimate of a parameter.
+- Interval Estimation: Range of values within which the parameter lies.
+- Confidence Intervals: Range of values with a specified probability of containing the parameter.
+
+8. Hypothesis Testing
+- Null Hypothesis (H₀): Assumption of no effect or difference.
+- Alternative Hypothesis (H₁): Contradicts the null hypothesis.
+- P-value: Probability of obtaining results at least as extreme as those observed, assuming H₀ is true.
+- Significance Level (α): Threshold for rejecting H₀.
+
+9. Correlation and Regression
+- Correlation: Measures the strength and direction of a linear relationship between two variables.
+- Regression: Predicts the value of one variable based on another.
+- Pearson's Correlation Coefficient: Quantifies the degree of linear relationship.
+
+*****************COPY THE YOUTUBE PLAYLIST BELOW TO GET DEEP KNOWLEDGE*************************************
+          https://www.youtube.com/watch?v=uOncGxITC14&list=PLiDCRP6ygApsl_DGCO0NlOa7-RobzW2YD

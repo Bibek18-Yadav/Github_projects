@@ -1,0 +1,60 @@
+ATOMIC STRUCTURE – Grade 11 Chemistry (Nepal Curriculum)
+--------------------------------------------------------
+
+1. INTRODUCTION
+Atomic Structure is the study of the structure of an atom, its components, and how electrons are arranged. It explains chemical properties, bonding, and behavior of elements. Understanding atomic structure is fundamental to all branches of chemistry.
+
+--------------------------------------------------------
+2. DISCOVERY OF ATOMS
+- Dalton’s Atomic Theory: Atoms are indivisible, indestructible, and combine in simple ratios to form compounds.
+- J.J. Thomson: Discovered electron; proposed Plum Pudding Model.
+- Rutherford: Discovered nucleus; Gold Foil Experiment; most of atom is empty space.
+- Bohr: Electrons revolve in fixed orbits with quantized energy levels.
+
+--------------------------------------------------------
+3. SUBATOMIC PARTICLES
+- Electron (e⁻): Negatively charged, very small mass, found in electron cloud.
+- Proton (p⁺): Positively charged, mass ~1 amu, found in nucleus.
+- Neutron (n⁰): Neutral, mass ~1 amu, found in nucleus.
+- Atomic Number (Z): Number of protons in nucleus; defines element.
+- Mass Number (A): Sum of protons and neutrons in nucleus.
+
+--------------------------------------------------------
+4. ISOTOPES AND ISOBARS
+- Isotopes: Atoms of same element with same Z but different A (e.g., ¹²C, ¹³C).
+- Isobars: Atoms of different elements with same A but different Z.
+- Importance: Nuclear reactions, radioactive isotopes in medicine.
+
+--------------------------------------------------------
+5. ELECTRON CONFIGURATION
+- Arrangement of electrons in various shells and subshells (s, p, d, f).  
+- Aufbau Principle: Electrons occupy lowest energy level first.  
+- Pauli Exclusion Principle: No two electrons in an atom have the same set of quantum numbers.  
+- Hund’s Rule: Electrons fill degenerate orbitals singly before pairing.  
+
+--------------------------------------------------------
+6. QUANTUM NUMBERS
+- Principal Quantum Number (n): Energy level/shell (n=1,2,3…).  
+- Azimuthal Quantum Number (l): Subshell/shape of orbital (s=0, p=1, d=2, f=3).  
+- Magnetic Quantum Number (ml): Orientation of orbital (-l to +l).  
+- Spin Quantum Number (ms): Spin of electron (+½ or -½).  
+
+--------------------------------------------------------
+7. ATOMIC MODELS
+- Thomson Model: Electrons in uniform positive sphere.  
+- Rutherford Model: Nucleus with electrons around.  
+- Bohr Model: Electrons in fixed orbits; explained hydrogen spectrum.  
+- Quantum Mechanical Model: Electrons as probability clouds; Schrodinger equation.
+
+--------------------------------------------------------
+8. ATOMIC SPECTRA
+- Emission Spectrum: Light emitted by electrons falling to lower energy levels.  
+- Absorption Spectrum: Light absorbed by electrons moving to higher energy levels.  
+- Hydrogen Spectrum: Lyman, Balmer, Paschen series.  
+
+--------------------------------------------------------
+SUMMARY
+Atomic structure explains the fundamental composition of matter, electron arrangement, and behavior of elements. Knowledge of atomic structure is essential for understanding chemical bonding, reactions, and the periodic table.
+--------------------------------------------------------
+-------------------COPY THE LINK BELOW FOR DETAILED VIDEO-------------------------
+           https://www.youtube.com/watch?v=HNGz5cBAjEc&list=PL3GBdsS--0-SnXI9RQBspXIWfr7vIqLSc

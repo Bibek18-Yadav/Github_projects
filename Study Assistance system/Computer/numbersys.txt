@@ -1,0 +1,68 @@
+NUMBER SYSTEM AND CONVERSION – Grade 11 Computer Science
+--------------------------------------------------------
+
+1. INTRODUCTION
+Number system is a way of representing numbers using symbols. Computers use different number systems to store and process data. Understanding conversions between these systems is fundamental in computer science.
+
+--------------------------------------------------------
+2. TYPES OF NUMBER SYSTEMS
+- **Binary (Base 2):** Uses 0 and 1. Used internally by computers.
+- **Decimal (Base 10):** Uses 0-9. Common in daily life.
+- **Octal (Base 8):** Uses 0-7. Useful in simplifying binary numbers.
+- **Hexadecimal (Base 16):** Uses 0-9 and A-F. Compact representation of binary data.
+
+--------------------------------------------------------
+3. CONVERSION BETWEEN NUMBER SYSTEMS
+- **Decimal to Binary:** Divide by 2 repeatedly, record remainders.
+- **Binary to Decimal:** Sum of digits × powers of 2.
+- **Decimal to Octal:** Divide by 8 repeatedly, record remainders.
+- **Decimal to Hexadecimal:** Divide by 16 repeatedly, record remainders.
+- **Binary to Octal/Hexadecimal:** Group bits in 3 (octal) or 4 (hex) and convert.
+- **Octal/Hexadecimal to Binary:** Replace each digit with its binary equivalent.
+
+--------------------------------------------------------
+4. BINARY ARITHMETIC
+- Addition, Subtraction, Multiplication, and Division performed using binary rules.
+- Important for computer calculations and logic circuits.
+
+--------------------------------------------------------
+BOOLEAN LOGIC – Grade 11 Computer Science
+--------------------------------------------------------
+
+1. INTRODUCTION
+Boolean logic is a branch of algebra that deals with **true (1) and false (0)** values. It is the foundation of digital circuits and computer decision-making.
+
+--------------------------------------------------------
+2. BOOLEAN VARIABLES AND OPERATORS
+- **Boolean Variable:** Can have only 2 values: 0 (False) or 1 (True)
+- **Basic Operators:**
+  - **AND (⋅):** True if both inputs are 1.
+  - **OR (+):** True if at least one input is 1.
+  - **NOT (’ or ¬):** Inverts the value (0→1, 1→0).
+
+--------------------------------------------------------
+3. TRUTH TABLES
+- Representation of all possible input combinations and corresponding outputs.
+- Used to analyze and design logical expressions and circuits.
+
+--------------------------------------------------------
+4. BOOLEAN LAWS AND SIMPLIFICATION
+- **Laws include:**
+  - Commutative: A+B = B+A, A⋅B = B⋅A
+  - Associative: A+(B+C) = (A+B)+C, A⋅(B⋅C) = (A⋅B)⋅C
+  - Distributive: A⋅(B+C) = A⋅B + A⋅C
+  - Identity, Null, Complement, and De Morgan’s Laws
+- Simplification reduces complexity of circuits.
+
+--------------------------------------------------------
+5. APPLICATIONS
+- Logic circuits design (AND, OR, NOT gates)
+- Decision making in programming
+- Digital electronics (computers, calculators, devices)
+
+--------------------------------------------------------
+SUMMARY
+Understanding number systems, conversions, and Boolean logic is essential in computer science. They form the basis for programming, hardware design, and digital computation.
+--------------------------------------------------------
+----------------------COPY THE LINK BELOW FOR DETAILED VIDEO----------------------------
+       https://www.youtube.com/watch?v=EW_2MhFu7tE

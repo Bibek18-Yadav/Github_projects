@@ -1,0 +1,69 @@
+WEB TECHNOLOGY-I – Grade 11 Computer Science (Nepal Curriculum)
+---------------------------------------------------------------
+
+1. INTRODUCTION
+Web Technology-I deals with the fundamentals of creating and managing websites and web applications. It covers the basics of web development including HTML, CSS, and client-server communication. It helps students understand how websites are structured, styled, and how they interact with users.
+
+---------------------------------------------------------------
+2. INTERNET AND WEB BASICS
+- Internet: A global network of interconnected computers for sharing data.
+- World Wide Web (WWW): A collection of web pages accessible via the internet.
+- Web Browser: Software used to access web pages (e.g., Chrome, Firefox).
+- Web Server: A computer that hosts websites and delivers web pages to clients.
+- URLs and Domain Names: Addresses to locate resources on the web.
+
+---------------------------------------------------------------
+3. HTML (HyperText Markup Language)
+- HTML: Standard language to create web pages.
+- Basic Structure: <!DOCTYPE html>, <html>, <head>, <title>, <body>
+- Common Tags:
+  - Headings: <h1> to <h6>
+  - Paragraph: <p>
+  - Links: <a href="url">
+  - Images: <img src="url" alt="text">
+  - Lists: <ul>, <ol>, <li>
+- Tables: <table>, <tr>, <td>, <th>
+- Forms: <form>, <input>, <textarea>, <button>, <select>, <option>
+
+---------------------------------------------------------------
+4. CSS (Cascading Style Sheets)
+- CSS: Language to style HTML elements.
+- Types of CSS:
+  - Inline: style attribute in HTML tag
+  - Internal: <style> tag within HTML
+  - External: .css file linked using <link>
+- Common Properties:
+  - Color, background-color, font-family, font-size
+  - Text alignment, margins, padding, borders
+- Box Model: Content, padding, border, margin
+
+---------------------------------------------------------------
+5. CLIENT-SIDE AND SERVER-SIDE
+- Client: The user's device that requests web pages via a browser.
+- Server: Hosts the website and responds to client requests.
+- HTTP/HTTPS: Protocols for communication between client and server.
+- Static vs Dynamic Web Pages:
+  - Static: Fixed content (HTML/CSS)
+  - Dynamic: Content generated on the server (e.g., PHP, JavaScript)
+
+---------------------------------------------------------------
+6. BASIC JAVASCRIPT (INTRODUCTION)
+- JavaScript: Programming language for client-side scripting.
+- Uses: Form validation, dynamic content, interactive features.
+- Basic Syntax:
+  - Variables, operators, functions, loops, events
+- DOM Manipulation: Access and modify HTML elements dynamically.
+
+---------------------------------------------------------------
+7. WEB DEVELOPMENT TOOLS
+- Text Editors: VS Code, Sublime Text, Notepad++
+- Browsers: Chrome, Firefox, Edge
+- Developer Tools: Inspect elements, console for debugging
+- Version Control: Basic knowledge of Git for managing code
+
+---------------------------------------------------------------
+SUMMARY
+Web Technology-I introduces students to the structure, design, and interaction of web pages using HTML, CSS, and basic JavaScript. It forms the foundation for advanced web development and internet-based applications, emphasizing practical skills in creating functional and styled websites.
+---------------------------------------------------------------
+-----------------------COPY THE LINK BELOW FOR THE DETAILED VIDEO-----------------------------
+          https://www.youtube.com/watch?v=qHYEYKCT30U&list=PLY4RrpSlLM6sJ36lS2gp1hoa8KaSEJemS

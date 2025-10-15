@@ -1,0 +1,49 @@
+CLASSIFICATION OF ELEMENTS AND PERIODIC TABLE – Grade 11 Chemistry (Nepal Curriculum)
+-----------------------------------------------------------------------------------
+
+1. INTRODUCTION
+Classification of elements arranges elements based on their properties, making it easier to study and predict their behavior. The Periodic Table is a systematic arrangement of elements in order of increasing atomic number, highlighting periodicity in properties.
+
+-----------------------------------------------------------------------------------
+2. EARLY ATTEMPTS OF CLASSIFICATION
+- **Dobereiner’s Triads:** Grouped three elements with similar properties; middle element's atomic mass is approx. average of other two.
+- **Newlands’ Law of Octaves:** Elements arranged by increasing atomic mass; properties repeated every eighth element.
+- **Mendeleev’s Periodic Table:** Arranged by increasing atomic mass; left gaps for undiscovered elements; predicted properties of missing elements.
+
+-----------------------------------------------------------------------------------
+3. MODERN PERIODIC TABLE
+- **Based on Atomic Number:** Modern Periodic Table arranges elements by increasing atomic number (Z).
+- **Periods and Groups:** 
+  - **Period:** Horizontal row, properties gradually change.
+  - **Group:** Vertical column, elements have similar chemical properties.
+- **Blocks:** s-block, p-block, d-block, f-block based on valence electron configuration.
+
+-----------------------------------------------------------------------------------
+4. PERIODIC PROPERTIES
+- **Atomic Radius:** Distance from nucleus to outermost electron; decreases across a period, increases down a group.
+- **Ionization Energy:** Energy required to remove an electron; increases across a period, decreases down a group.
+- **Electron Affinity:** Energy change on gaining an electron; generally more negative across a period.
+- **Electronegativity:** Ability to attract electrons in a bond; increases across a period, decreases down a group.
+- **Metallic and Non-Metallic Character:** Metals → left, non-metals → right; metallic character decreases across a period, increases down a group.
+
+-----------------------------------------------------------------------------------
+5. CLASSIFICATION OF ELEMENTS
+- **Metals:** Malleable, ductile, good conductors, low ionization energy.
+- **Non-Metals:** Brittle, poor conductors, high ionization energy.
+- **Metalloids (Semi-Metals):** Properties of both metals and non-metals.
+- **Representative Elements:** s- and p-block elements.
+- **Transition Elements:** d-block, variable oxidation states, form colored compounds.
+- **Inner Transition Elements:** f-block, lanthanides, actinides.
+
+-----------------------------------------------------------------------------------
+6. IMPORTANCE OF PERIODIC TABLE
+- Predicts physical and chemical properties of elements.
+- Helps in studying reactivity trends and valence.
+- Provides systematic arrangement aiding chemical research and industrial applications.
+
+-----------------------------------------------------------------------------------
+SUMMARY
+The classification of elements and the Periodic Table simplify understanding of elements’ properties and chemical behavior. Modern periodic law (based on atomic number) provides a universal framework for organizing all known elements.
+-----------------------------------------------------------------------------------
+-------------------COPY THE LINK BELOW FOR DETAILED VIDEO-----------------------
+             https://www.youtube.com/watch?v=XWoVLJbUB5o&list=PL3GBdsS--0-RGaohy2Rk8AMyIwbX5Rc-6

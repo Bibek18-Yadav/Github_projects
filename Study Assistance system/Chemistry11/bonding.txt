@@ -1,0 +1,73 @@
+CHEMICAL BONDING AND SHAPE OF MOLECULES – Grade 11 Chemistry (Nepal Curriculum)
+-------------------------------------------------------------------------------
+
+1. INTRODUCTION
+Chemical bonding is the force that holds atoms together in a molecule or compound. It explains the structure, properties, and reactivity of substances. The shape of molecules affects physical and chemical properties.
+
+-------------------------------------------------------------------------------
+2. TYPES OF CHEMICAL BONDS
+- Ionic Bond:
+  Formed by transfer of electrons from metal to non-metal.
+  Example: NaCl
+- Covalent Bond:
+  Formed by sharing of electron pairs between atoms.
+  Example: H2O, O2
+- Coordinate (Dative) Bond:
+  Covalent bond in which both electrons are donated by one atom.
+  Example: NH4+
+- Metallic Bond:
+  Attraction between positive metal ions and delocalized electrons.
+  Example: Na, Cu
+
+-------------------------------------------------------------------------------
+3. ELECTRONEGATIVITY AND BOND POLARITY
+- Electronegativity: Ability of an atom to attract shared electrons.
+- Polar Covalent Bond: Unequal sharing of electrons due to difference in electronegativity.
+- Nonpolar Covalent Bond: Equal sharing of electrons.
+- Dipole Moment: Measure of bond polarity; vector quantity.
+
+-------------------------------------------------------------------------------
+4. BOND PARAMETERS
+- Bond Length: Distance between nuclei of two bonded atoms.
+- Bond Angle: Angle between two bonds originating from the same atom.
+- Bond Energy: Energy required to break a bond; indicates bond strength.
+- Bond Order: Number of shared electron pairs between two atoms.
+
+-------------------------------------------------------------------------------
+5. VSEPR THEORY (Valence Shell Electron Pair Repulsion)
+- Predicts the shape of molecules based on repulsion between electron pairs.
+- Common Shapes:
+  - Linear: AB2 (e.g., CO2)
+  - Trigonal Planar: AB3 (e.g., BF3)
+  - Tetrahedral: AB4 (e.g., CH4)
+  - Trigonal Pyramidal: AB3E (e.g., NH3)
+  - Bent: AB2E2 (e.g., H2O)
+- Lone pairs affect bond angles and molecular shape.
+
+-------------------------------------------------------------------------------
+6. HYBRIDIZATION
+- Mixing of atomic orbitals to form new hybrid orbitals.
+- Types:
+  - sp: Linear geometry
+  - sp2: Trigonal planar
+  - sp3: Tetrahedral
+  - sp3d: Trigonal bipyramidal
+  - sp3d2: Octahedral
+- Determines geometry and bonding in molecules.
+
+-------------------------------------------------------------------------------
+7. INTERMOLECULAR FORCES
+- Weak forces between molecules affecting physical properties.
+- Types:
+  - Hydrogen Bonding (strongest type among dipole interactions)
+  - Dipole-Dipole Interaction
+  - London Dispersion Forces (Van der Waals forces)
+
+-------------------------------------------------------------------------------
+SUMMARY
+Chemical bonding explains the formation, structure, and stability of molecules. 
+VSEPR theory and hybridization help predict molecular shapes, which influence chemical and physical properties. 
+Understanding bond types and molecular geometry is crucial for predicting reactivity and behavior of substances.
+-------------------------------------------------------------------------------
+-------------------COPY THE LINK BELOW FOR DETAILED VIDEO------------------------------
+             https://www.youtube.com/watch?v=daPAcFFSFdY&list=PLF_7kfnwLFCGzzyaPRyNjSXRRR7W_qmny

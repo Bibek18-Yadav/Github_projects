@@ -1,0 +1,57 @@
+STOICHIOMETRY – Grade 11 Chemistry (Nepal Curriculum)
+------------------------------------------------------
+
+1. INTRODUCTION
+Stoichiometry is the branch of chemistry that deals with the quantitative relationships between reactants and products in chemical reactions. It allows us to calculate the amounts of substances consumed and produced in chemical reactions.
+
+------------------------------------------------------
+2. MOLE CONCEPT
+- Mole: The amount of substance containing 6.022 × 10²³ particles (Avogadro’s number).
+- Molar Mass: Mass of one mole of a substance (g/mol).
+- Calculations: Converting between mass, moles, and number of particles.
+  n = m / M
+  n = N / NA
+  where n = moles, m = mass, M = molar mass, N = number of particles, NA = Avogadro’s number.
+
+------------------------------------------------------
+3. EMPIRICAL AND MOLECULAR FORMULAE
+- Empirical Formula: Simplest whole-number ratio of atoms in a compound.
+- Molecular Formula: Actual number of atoms of each element in a molecule.
+- Determination: From percent composition or experimental data.
+
+------------------------------------------------------
+4. CHEMICAL EQUATIONS
+- Symbolic representation of a chemical reaction.
+- Reactants → Products
+- Balancing Equations: Ensures conservation of mass and atoms.
+- Types of Reactions: Combination, decomposition, displacement, double displacement, redox.
+
+------------------------------------------------------
+5. STOICHIOMETRIC CALCULATIONS
+- Based on balanced chemical equations.
+- Mole Ratio: Used to relate quantities of reactants and products.
+- Mass Calculations: Using molar masses and mole ratios.
+- Volume Calculations: For gases at STP (V = n × 22.4 L/mol at STP).
+- Limiting Reagent: Reactant that limits the amount of product formed.
+- Percentage Yield: (Actual yield / Theoretical yield) × 100%
+
+------------------------------------------------------
+6. CONCENTRATION OF SOLUTIONS
+- Molarity (M): Moles of solute per liter of solution.
+- Molality (m): Moles of solute per kg of solvent.
+- Mass Percent: (Mass of solute / Mass of solution) × 100%
+- Dilution: C1V1 = C2V2 (relation between concentrations before and after dilution).
+
+------------------------------------------------------
+7. GAS STOICHIOMETRY
+- Relates moles, volume, and pressure of gases using:
+  Ideal Gas Equation: PV = nRT
+- Calculations involve reaction between gaseous reactants/products.
+- STP: Standard Temperature and Pressure (0°C, 1 atm).
+
+------------------------------------------------------
+SUMMARY
+Stoichiometry connects the quantitative aspects of chemistry: moles, mass, volume, and concentration. It is essential for predicting yields, understanding chemical reactions, and solving real-world chemical problems.
+------------------------------------------------------
+----------------COPY THE LINK BELOW FOR DETAILED VIDEO-----------------------
+         https://www.youtube.com/watch?v=3BFsBQgsVBE

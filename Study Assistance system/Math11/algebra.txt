@@ -1,0 +1,65 @@
+NEB Grade 11 Algebra — Subtopics & Key Points
+
+The “Algebra” unit includes several subtopics. For each, a few important
+concepts or things you should understand / be able to do are listed
+below.
+
+1.  Logic and Sets
+
+-   Understand what a statement is (proposition), and how logical
+    connectives (AND, OR, NOT, etc.) work.
+-   Build and read truth tables.
+-   Understand set operations (union, intersection, difference,
+    complement), and theorems involving set identities.
+
+2.  Real Numbers
+
+-   Geometric representation of real numbers on the number line.
+-   Intervals (open, closed, half-open), their notation.
+-   Absolute value and its properties (triangle inequality etc.).
+-   Field and order axioms (basic properties of real numbers).
+
+3.  Functions
+
+-   Definition of a function; domain and range.
+-   Different types: algebraic (linear, quadratic, cubic),
+    transcendental (trigonometric, exponential, logarithmic).
+-   Inverse functions (when a function is invertible), composite
+    functions.
+
+4.  Curve Sketching
+
+-   Even/odd functions; symmetry about axes or origin.
+-   Periodicity of functions.
+-   Monotonicity: where function is increasing / decreasing.
+-   Sketching: Quadratic, Cubic, and simple rational functions
+    (e.g. 1/(ax+b)), trigonometric (a sin(bx), a cos(bx)), exponential
+    (eˣ), logarithm (ln x).
+
+5.  Sequence and Series
+
+-   Define sequence; understand arithmetic (A.P.), geometric (G.P.),
+    harmonic sequences.
+-   Properties: relationships among arithmetic mean (A.M.), geometric
+    mean (G.M.), harmonic mean (H.M).
+-   Sum of finite series; sum of infinite geometric series (when
+    converges).
+
+6.  Matrices and Determinants
+
+-   Matrix transpose, its properties.
+-   Minors, cofactors; adjoint of a matrix; inverse of a matrix (when
+    exists).
+-   Determinant of square matrices; basic properties of determinants
+    (e.g. determinant of product, effect of row operations, etc.).
+
+7.  Quadratic Equations
+
+-   Nature of roots (real, repeated, complex) and how discriminant (b² −
+    4ac) determines nature.
+-   Relation between roots and coefficients: sum of roots, product of
+    roots.
+-   Formation of quadratic equations given roots; symmetric roots etc.
+
+*****************COPY THIS LINK OF YOUTUBE PLAYLIST TO GET DETAILED EXPLANATION*********************************
+        https://www.youtube.com/watch?v=O-Ydf8i5gSY&list=PLxyGaR3hEy3hxJRnCedVw2KMYsuG0aldV

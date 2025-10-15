@@ -1,0 +1,88 @@
+========================
+GRADE 11: COMPUTATIONAL METHOD
+========================
+
+1. INTRODUCTION TO COMPUTATIONAL METHODS
+- Definition: Techniques to solve mathematical problems using computers.
+- Importance: Speeds up calculations, handles large datasets, reduces human error.
+- Applications: Physics simulations, engineering computations, data analysis.
+
+2. ALGORITHMS
+- Definition: Step-by-step procedure to solve a problem.
+- Characteristics: Clear, finite, effective, and sequential.
+- Examples: Finding maximum/minimum, sum of numbers, sorting.
+- Flowcharts: Visual representation of algorithms using symbols.
+
+3. NUMERICAL METHODS
+- Definition: Techniques to solve mathematical problems approximately.
+- Importance: Useful when exact solutions are hard or impossible.
+- Examples:
+  - Root-finding methods (e.g., Bisection method, Newton-Raphson method)
+  - Interpolation (Linear, Polynomial)
+  - Numerical integration (Trapezoidal, Simpson’s rule)
+  - Numerical differentiation
+- Key Idea: Trade-off between accuracy and computational effort.
+
+4. COMPUTER PROGRAMMING BASICS
+- Definition: Writing instructions in a programming language for computers.
+- Common Languages: Python, C, C++, Java.
+- Basic Concepts:
+  - Variables and Data Types
+  - Operators (Arithmetic, Relational, Logical)
+  - Conditional Statements (if, if-else, nested)
+  - Loops (for, while)
+  - Functions/Procedures
+- Importance: Efficient implementation of algorithms.
+
+5. ERROR AND ACCURACY
+- Types of Errors:
+  - Round-off Error: Due to limited precision of computers.
+  - Truncation Error: Due to approximation in numerical methods.
+- Accuracy: How close the result is to the true value.
+- Significant Figures: Used to represent accuracy of calculations.
+
+6. SOLVING LINEAR EQUATIONS
+- Definition: Equations with unknowns of degree 1.
+- Methods:
+  - Gauss Elimination
+  - Gauss-Jordan Method
+  - Matrix Inversion Method
+- Importance: Common in physics and engineering computations.
+
+7. SOLVING NON-LINEAR EQUATIONS
+- Definition: Equations where unknowns appear in powers >1 or transcendental forms.
+- Methods:
+  - Bisection Method
+  - Newton-Raphson Method
+  - Secant Method
+- Application: Finding roots of equations in physics/engineering.
+
+8. INTERPOLATION AND EXTRAPOLATION
+- Interpolation: Estimating values inside a known data range.
+- Extrapolation: Estimating values outside known data range.
+- Methods:
+  - Linear Interpolation
+  - Polynomial Interpolation (Newton’s, Lagrange)
+- Applications: Predicting values, engineering approximations.
+
+9. NUMERICAL DIFFERENTIATION AND INTEGRATION
+- Differentiation: Approximating derivative of a function.
+  - Forward, Backward, Central Difference
+- Integration: Approximating area under curve.
+  - Trapezoidal Rule, Simpson’s 1/3 Rule
+- Applications: Physics simulations, curve fitting, area calculations.
+
+10. COMPUTER APPLICATION IN SCIENTIFIC PROBLEMS
+- Using programs to simulate real-world problems.
+- Examples:
+  - Projectile motion calculations
+  - Population growth models
+  - Solving differential equations numerically
+- Benefit: Fast, accurate, and repeatable results.
+
+========================
+End of Computational Method Notes
+========================
+ 
+***************COPY THE YOUTUBE PLAYLIST LINK BELOW TO GET DETAILED VIDEO***************************
+          https://www.youtube.com/watch?v=bHQUpYtFI8s&list=PL9807p3CtT94PMLe9ILnuWzFcWYUXpSl9

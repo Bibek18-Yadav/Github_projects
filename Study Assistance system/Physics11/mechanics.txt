@@ -1,0 +1,73 @@
+MECHANICS – Grade 11 Physics (Nepal Curriculum)
+------------------------------------------------
+
+1. INTRODUCTION
+Mechanics is the branch of physics that deals with the study of motion of objects and the forces acting on them. It helps us understand how and why objects move or remain at rest. It forms the foundation for understanding various physical phenomena in daily life, engineering, and astronomy.
+
+------------------------------------------------
+2. PHYSICAL QUANTITIES AND MEASUREMENT
+- Physical Quantity: Any measurable quantity (e.g., length, mass, time).
+- Units: Standard for measurement – SI system used.
+- Dimensions: Expressing a physical quantity in terms of base quantities (e.g., [M¹L¹T⁻²] for force).
+- Dimensional Analysis: Used for checking correctness of equations and converting units.
+- Errors: Difference between true and measured value – includes systematic and random errors.
+
+------------------------------------------------
+3. KINEMATICS (MOTION IN ONE AND TWO DIMENSIONS)
+- Displacement, Velocity, and Acceleration: Vector quantities describing motion.
+- Equations of Motion (Uniform Acceleration):
+  v = u + at
+  s = ut + ½at²
+  v² = u² + 2as
+- Graphical Representation: Position-time and velocity-time graphs.
+- Projectile Motion: Motion in two dimensions under gravity; path is parabolic.
+- Relative Velocity: Velocity of one object with respect to another.
+
+------------------------------------------------
+4. LAWS OF MOTION
+- Newton’s First Law (Inertia): A body remains at rest or in uniform motion unless acted upon by an external force.
+- Newton’s Second Law: F = ma, defines force.
+- Newton’s Third Law: Every action has an equal and opposite reaction.
+- Friction: Force opposing motion; types – static and kinetic friction.
+- Free Body Diagram: Used to represent forces acting on a body.
+
+------------------------------------------------
+5. WORK, ENERGY, AND POWER
+- Work: W = Fd cosθ
+- Energy: Ability to do work.
+  Kinetic Energy: ½mv²
+  Potential Energy: mgh
+- Work–Energy Theorem: Work done = Change in kinetic energy.
+- Power: Rate of doing work, P = W/t.
+- Conservation of Energy: Energy can neither be created nor destroyed, only transformed.
+
+------------------------------------------------
+6. CIRCULAR MOTION
+- Uniform Circular Motion: Motion in a circle with constant speed but changing velocity.
+- Centripetal Acceleration: a = v²/r
+- Centripetal Force: F = mv²/r
+- Applications: Banking of roads, motion of planets and satellites.
+
+------------------------------------------------
+7. GRAVITATION
+- Newton’s Law of Gravitation: F = G(m1m2)/r²
+- Acceleration due to Gravity: g = GM/R²
+- Variation of g: Changes with altitude, depth, and latitude.
+- Gravitational Potential and Potential Energy.
+- Satellite Motion: Orbital velocity and escape velocity.
+
+------------------------------------------------
+8. ELASTICITY
+- Stress: Force per unit area.
+- Strain: Change in dimension per unit original dimension.
+- Hooke’s Law: Stress ∝ Strain (within elastic limit).
+- Elastic Moduli: Young’s modulus, bulk modulus, rigidity modulus.
+- Energy stored in a stretched wire: U = ½ × stress × strain.
+
+------------------------------------------------
+SUMMARY
+Mechanics connects motion, force, and energy, forming the base for higher-level topics like thermodynamics, electromagnetism, and modern physics.
+It builds the foundation for real-world applications – from designing vehicles to understanding planetary motion.
+------------------------------------------------
+----------------COPY THE LINK OF YOUTUBE PLAYLIST BELOW FOR MORE DETAILS------------------------
+      https://www.youtube.com/watch?v=MBSVhA09G3I&list=PL-azVpkdqFe3bf17TXPs6VNmRJTKhM1_O

@@ -1,0 +1,54 @@
+VECTORS - Grade 11 (NEB Syllabus)
+
+1. Triangle / Parallelogram / Polygon laws of vectors
+------------------------------------------------------
+- Triangle law: If two vectors A and B act such that the tail of B is at the head of A, then the resultant vector is the one from the tail of A to the head of B.
+- Parallelogram law: When two vectors A and B start from the same point, they form two sides of a parallelogram; the diagonal from the same point gives the resultant A + B.
+- Polygon law: For more than two vectors, you can place them head to tail in sequence; the resultant is the vector from the start of the first to the end of the last.
+- Associativity: (A + B) + C = A + (B + C)
+- Commutativity: A + B = B + A
+
+2. Resolution of vectors & Unit vectors
+---------------------------------------
+- Resolution of a vector: Any vector V in a plane can be broken into components along mutually perpendicular axes (x and y).
+  If V makes angle θ with x-axis:
+      Vx = V cosθ
+      Vy = V sinθ
+- Unit vector: A vector of magnitude 1, used to indicate direction.
+  Standard unit vectors in Cartesian: i, j, k.
+  To get a unit vector in direction of V: u = V / |V|
+- Null vector: A vector of zero magnitude (0), direction undefined.
+- Equal vectors: Two vectors are equal if they have same magnitude and direction, regardless of initial point.
+
+3. Scalar (dot) and Vector (cross) Products
+-------------------------------------------
+- Scalar (dot) product:
+    A · B = AB cosθ
+    Result is a scalar.
+    Component form: A_x B_x + A_y B_y + A_z B_z
+    Use: Work = F · d = Fd cosθ
+- Vector (cross) product:
+    A × B = AB sinθ n̂
+    Result is a vector perpendicular to the plane of A and B.
+    Magnitude = area of parallelogram formed by A & B.
+    Properties: anti-commutative (A × B = -B × A), distributive.
+    Component form: determinant using i, j, k.
+
+4. Applications in Physics / Geometry
+-------------------------------------
+- Adding forces: Use vector addition laws to find resultant of multiple forces.
+- Work done: As dot product of force and displacement vectors.
+- Moment / torque: Cross product of radius vector and force.
+- Vector representation of motion: velocity and displacement in components.
+- Angle between vectors: cosθ = (A · B) / (|A| |B|)
+
+5. Vector concepts in Mathematics
+---------------------------------
+- Collinear vectors: Vectors along same line (one is scalar multiple of other).
+- Coplanar / non‑coplanar vectors: Coplanar lie in same plane; non‑coplanar don’t.
+- Linear combination: Expressing a vector as a u + b v + ...
+- Angle between two vectors: via dot product formula.
+- Scalar triple product: A · (B × C) gives volume of parallelepiped formed by three vectors.
+
+****************COPY THE YOUTUBE PLAYLIST****************************
+           https://www.youtube.com/watch?v=K8b2r_MBGnU&list=PLiDCRP6ygAptDQd_msvb9l1bBdbjGe6zj

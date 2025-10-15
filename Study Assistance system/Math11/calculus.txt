@@ -1,0 +1,37 @@
+Grade 11 Calculus – NEB Syllabus Overview
+
+1. Limits and Continuity
+- Limits: The value that a function approaches as the input approaches a certain point.
+- Continuity: A function is continuous at a point if the limit exists and equals the function's value at that point.
+- Key Concepts:
+  - Indeterminate forms (e.g., 0/0)
+  - Algebraic properties of limits
+  - Continuity of functions
+  - Types of discontinuities
+  - Graphs of discontinuous functions
+
+2. Derivatives
+- Definition: The derivative of a function represents its rate of change or slope at any given point.
+- Methods:
+  - First principle (definition)
+  - Standard differentiation formulas
+  - Derivatives of algebraic, trigonometric, exponential, and logarithmic functions
+- Applications:
+  - Geometric interpretation (tangent line)
+  - Monotonicity (increasing/decreasing functions)
+  - Local maxima and minima
+  - Concavity and points of inflection
+  - Rate of change in real-life problems
+
+3. Antiderivatives (Integration)
+- Definition: The antiderivative or integral of a function is the reverse process of differentiation. It represents the accumulation of quantities.
+- Techniques:
+  - Basic integration formulas
+  - Integration by substitution
+  - Integration by parts
+- Applications:
+  - Definite integrals and their interpretation as the area under a curve
+  - Area between two curves
+
+**********************COPY THE LINK OF YOUTUBE PLAYLIST TO GET FULL COURSE****************************
+      https://www.youtube.com/watch?v=jQDvvB54V44&list=PLgEf2yP_aG70oLgKZC98pJvQuX32lBO2p

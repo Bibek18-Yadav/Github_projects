@@ -1,0 +1,65 @@
+ORGANIC CHEMISTRY – Grade 11 Chemistry (Nepal Curriculum)
+---------------------------------------------------------
+
+1. INTRODUCTION
+Organic chemistry is the branch of chemistry that deals with carbon-containing compounds. Carbon’s ability to form stable covalent bonds with itself and other elements leads to a vast variety of compounds with different structures and properties. Organic chemistry is fundamental for understanding biological molecules, pharmaceuticals, polymers, and fuels.
+
+---------------------------------------------------------
+2. CLASSIFICATION OF ORGANIC COMPOUNDS
+- **Hydrocarbons:** Compounds containing only carbon and hydrogen.
+  - Alkanes: Saturated hydrocarbons (single bonds, CnH2n+2)
+  - Alkenes: Unsaturated hydrocarbons (double bonds, CnH2n)
+  - Alkynes: Unsaturated hydrocarbons (triple bonds, CnH2n-2)
+  - Aromatic compounds: Contain benzene ring structures.
+- **Functional Groups:** Groups of atoms responsible for chemical behavior.
+  - Alcohols (-OH), Aldehydes (-CHO), Ketones (>C=O), Carboxylic acids (-COOH), Amines (-NH2), etc.
+
+---------------------------------------------------------
+3. NOMENCLATURE
+- Systematic naming based on **IUPAC rules**.
+  - Identify parent chain (longest carbon chain)
+  - Number the chain to give substituents lowest positions
+  - Name substituents and functional groups appropriately
+- Examples: Methane, Ethanol, Propanone, Butanoic acid.
+
+---------------------------------------------------------
+4. ISOMERISM
+- **Structural Isomerism:** Same molecular formula, different structures.
+  - Chain isomerism, position isomerism, functional group isomerism.
+- **Stereoisomerism:** Same connectivity, different spatial arrangement.
+  - Geometrical (cis-trans) isomerism, Optical isomerism (enantiomers).
+
+---------------------------------------------------------
+5. HYDROCARBONS
+- **Alkanes:** Saturated, undergo substitution reactions (e.g., halogenation).
+- **Alkenes:** Unsaturated, undergo addition reactions (e.g., hydrogenation, halogenation).
+- **Alkynes:** Unsaturated, triple bond, undergo addition and oxidation reactions.
+- **Aromatic Compounds:** Benzene and derivatives, undergo substitution reactions (electrophilic aromatic substitution).
+
+---------------------------------------------------------
+6. REACTIONS OF ORGANIC COMPOUNDS
+- **Substitution Reactions:** One atom/group replaced by another.
+- **Addition Reactions:** Multiple bonds react with reagents to add atoms/groups.
+- **Elimination Reactions:** Removal of atoms/groups to form double/triple bonds.
+- **Oxidation-Reduction Reactions:** Changing oxidation states (e.g., alcohol → aldehyde → carboxylic acid).
+
+---------------------------------------------------------
+7. FUNCTIONAL GROUP CHEMISTRY
+- **Alcohols:** -OH group, reactions: oxidation, dehydration, esterification.
+- **Aldehydes and Ketones:** C=O group, reactions: nucleophilic addition, oxidation.
+- **Carboxylic Acids:** -COOH group, reactions: neutralization, esterification.
+- **Amines:** -NH2 group, basic nature, substitution reactions.
+
+---------------------------------------------------------
+8. POLYMERS AND MACROMOLECULES
+- **Polymers:** High molecular weight compounds formed from monomers.
+  - Addition polymers (e.g., polyethylene)
+  - Condensation polymers (e.g., nylon)
+- **Biomacromolecules:** Carbohydrates, proteins, nucleic acids (basic idea).
+
+---------------------------------------------------------
+SUMMARY
+Organic chemistry studies the structure, properties, reactions, and preparation of carbon compounds. It is essential for understanding life processes, synthetic materials, and industrial chemicals.
+---------------------------------------------------------
+--------------------COPY THE LINK BELOW FOR COMPLETE DETAILED VIDEO-----------------------------
+         https://www.youtube.com/watch?v=ZgccHLOj3W4&list=PLgqhGKMp0Djaj_Tmch5c0zjqHEEHAGivd

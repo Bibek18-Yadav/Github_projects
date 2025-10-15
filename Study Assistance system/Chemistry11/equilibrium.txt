@@ -1,0 +1,52 @@
+CHEMICAL EQUILIBRIUM – Grade 11 Chemistry (Nepal Curriculum)
+--------------------------------------------------------------
+
+1. INTRODUCTION
+Chemical equilibrium is the state in which the rates of forward and backward reactions are equal, and the concentrations of reactants and products remain constant over time. 
+It is a dynamic process, meaning reactions continue to occur, but no net change is observed.
+
+--------------------------------------------------------------
+2. REVERSIBLE AND IRREVERSIBLE REACTIONS
+- Reversible Reaction: Reaction where products can revert back to reactants (e.g., N2 + 3H2 ⇌ 2NH3).
+- Irreversible Reaction: Reaction that proceeds to completion and products do not revert (e.g., combustion of methane).
+
+--------------------------------------------------------------
+3. DYNAMIC NATURE OF EQUILIBRIUM
+- At equilibrium, forward and backward reaction rates are equal.
+- Macroscopic properties (concentration, pressure, color) remain constant.
+- Equilibrium is dynamic at molecular level, with continuous formation and breaking of products/reactants.
+
+--------------------------------------------------------------
+4. LAW OF MASS ACTION
+- The rate of reaction is proportional to the product of the concentrations of reactants raised to their stoichiometric coefficients.
+- Equilibrium constant (Kc or Kp):
+  - Kc = [products]^n / [reactants]^m (for concentration)
+  - Kp = (partial pressures of products)^n / (partial pressures of reactants)^m (for gases)
+
+--------------------------------------------------------------
+5. TYPES OF EQUILIBRIUM
+- Homogeneous Equilibrium: All reactants and products are in the same phase (e.g., gases or liquids).
+- Heterogeneous Equilibrium: Reactants and products are in different phases (e.g., CaCO3(s) ⇌ CaO(s) + CO2(g)).
+
+--------------------------------------------------------------
+6. FACTORS AFFECTING EQUILIBRIUM (LE CHATELIER’S PRINCIPLE)
+- **Concentration:** Increasing reactants shifts equilibrium towards products, and vice versa.
+- **Pressure:** For gaseous reactions, increasing pressure favors the side with fewer gas molecules.
+- **Temperature:** 
+  - Exothermic reaction: Increasing temperature shifts equilibrium to reactants.
+  - Endothermic reaction: Increasing temperature shifts equilibrium to products.
+- **Catalyst:** Speeds up reaching equilibrium but does not shift its position.
+
+--------------------------------------------------------------
+7. APPLICATIONS OF CHEMICAL EQUILIBRIUM
+- Industrial synthesis (e.g., Haber process for NH3, Contact process for H2SO4)
+- Controlling reaction yields in chemical industries.
+- Understanding biological systems and physiological reactions.
+
+--------------------------------------------------------------
+SUMMARY
+Chemical equilibrium describes a dynamic balance between forward and backward reactions.
+Understanding its principles allows prediction and control of chemical reactions, essential in chemistry and industrial processes.
+--------------------------------------------------------------
+----------------COPY THE LINK BELOW FOR DETAILED VIDEO----------------------------
+         https://www.youtube.com/watch?v=sCUgeC5ACv8&list=PLF_7kfnwLFCGNdqR8jaKSpxiiR83vM3_r

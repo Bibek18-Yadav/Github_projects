@@ -1,0 +1,73 @@
+COMPUTER SYSTEM – Grade 11 Computer Science (Nepal Curriculum)
+---------------------------------------------------------------
+
+1. INTRODUCTION
+A computer system is an electronic device that processes data and provides output in the form of information. It consists of hardware and software components and follows a sequence of operations to perform tasks efficiently.
+
+---------------------------------------------------------------
+2. COMPONENTS OF COMPUTER SYSTEM
+- **Hardware:** Physical components of a computer.
+  - Input Devices: Keyboard, mouse, scanner, microphone.
+  - Output Devices: Monitor, printer, speaker.
+  - Processing Unit: Central Processing Unit (CPU) – Control Unit (CU) and Arithmetic Logic Unit (ALU).
+  - Storage Devices: Primary (RAM, ROM), Secondary (Hard Disk, SSD, Optical Discs).
+- **Software:** Set of instructions that tell the computer what to do.
+  - System Software: Operating system, utility programs.
+  - Application Software: Word processors, spreadsheets, web browsers.
+
+---------------------------------------------------------------
+3. CENTRAL PROCESSING UNIT (CPU)
+- **Definition:** CPU is the brain of the computer that executes instructions and processes data.
+- **Components:**
+  - Control Unit (CU): Directs all operations of the computer.
+  - Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations.
+  - Registers: Small, fast storage locations inside the CPU.
+- **Functioning:** Fetch → Decode → Execute cycle (Instruction cycle).
+
+---------------------------------------------------------------
+4. MEMORY
+- **Primary Memory (Volatile):**
+  - RAM (Random Access Memory): Temporary storage for running programs.
+  - ROM (Read-Only Memory): Permanent storage for essential instructions.
+- **Secondary Memory (Non-volatile):** Hard Disk, SSD, CD/DVD.
+- **Cache Memory:** High-speed memory to reduce CPU waiting time.
+- **Virtual Memory:** Extension of RAM using storage space.
+
+---------------------------------------------------------------
+5. INPUT AND OUTPUT DEVICES
+- **Input Devices:** Allow user to enter data into the computer (Keyboard, Mouse, Scanner, Microphone).
+- **Output Devices:** Allow computer to communicate results to the user (Monitor, Printer, Speaker).
+- **Storage Devices:** Store data permanently or temporarily.
+
+---------------------------------------------------------------
+6. SOFTWARE
+- **System Software:** Helps manage hardware and provides environment for application software.
+  - Operating System: Manages hardware and software resources (Windows, Linux).
+  - Utility Programs: Antivirus, File management tools.
+- **Application Software:** Programs designed to perform specific tasks for users (MS Office, Web Browser, Graphics Software).
+
+---------------------------------------------------------------
+7. TYPES OF COMPUTER SYSTEMS
+- **Based on Size and Power:**
+  - Supercomputer: Extremely fast and powerful for complex tasks.
+  - Mainframe: Large organizations for bulk processing.
+  - Minicomputer: Medium-sized, for small to medium tasks.
+  - Microcomputer/Personal Computer (PC): Used by individuals.
+- **Based on Purpose:**
+  - General-purpose: Perform multiple tasks.
+  - Special-purpose: Designed for specific tasks.
+
+---------------------------------------------------------------
+8. CHARACTERISTICS OF COMPUTER
+- Speed: Processes data very quickly.
+- Accuracy: Provides precise results.
+- Automation: Performs tasks automatically.
+- Storage: Stores large amounts of data.
+- Versatility: Performs different types of tasks.
+
+---------------------------------------------------------------
+SUMMARY
+A computer system is a combination of hardware and software working together to process data into meaningful information. Understanding its components and functions is fundamental to learning computer science and designing efficient computer applications.
+---------------------------------------------------------------
+------------------COPY THE LINK BELOW FOR THE DETAILED VIDEO-------------------------
+        https://www.youtube.com/watch?v=94oMJCQWxw4&list=PLK5mBYW2QCD-29Han-BqWuWFzX__HS19-

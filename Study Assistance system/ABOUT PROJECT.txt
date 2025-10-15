@@ -1,0 +1,18 @@
+This project is study assistance system. I have coded this not only for fun but also to help the students in real way. I have tried to add different features in it , to make it more interactive and helpful.
+
+It has mainly three feature:
+1. Expected Result Evaluation
+This feature is for the student who have recently participated in any terminal examination and wants to guess his/her percentage by                                     entering their expected marks. It also displays the bar graph to make student understand about the subject they need to work on.
+
+2. Normal Questions:
+This feature is to ask some general questions like : present date and time, about the developer, timetable....  
+The main one is Concentration related question. In this portion I have added a scramble game in which user is given with a word which is scrambled and user is expected to make a word from it which have the clear meaning. 
+
+3. Study Assistance( Only for grade 11 students):
+This is the special feature for grade 11 students. As a Nepali student i too have faced difficulties related my course and curriculum activities during my grade 11. So, i have included this feature in which grade 11 student of computer science can find all the topics and basic introduction of each topics along with the  youtube video link for detailed explanation except for literature subjects. I believe this feature is definitely very useful for the recently enrolled grade 11 student. 
+
+
+Flows in my project:
+As a coder myself, I believe this project is not totally perfect as there are some cases like: error handling, where I have not done well. I could have possible made it GUI version but I could not do that due to my personal reasons. But the one who is reading this can give it a try by using my codes.
+
+I believe in progress and persistence. I will definitely improve on all my weaknesses and come with better and more interactive projects in coming future.  

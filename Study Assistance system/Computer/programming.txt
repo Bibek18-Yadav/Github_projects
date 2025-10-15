@@ -1,0 +1,69 @@
+PROGRAMMING CONCEPTS AND LOGIC – Grade 11 Computer Science (Nepal Curriculum)
+----------------------------------------------------------------------------
+
+1. INTRODUCTION
+Programming is the process of creating a set of instructions that a computer can execute to perform specific tasks. Programming logic is the method of designing solutions to problems using algorithms and logical steps. It is the foundation for learning any programming language.
+
+---------------------------------------------------------------------------- 
+2. BASIC CONCEPTS
+- Algorithm: Step-by-step procedure to solve a problem.
+- Flowchart: Graphical representation of an algorithm using symbols.
+- Pseudocode: Informal description of an algorithm using structured English.
+- Program: A set of instructions written in a programming language to perform a task.
+- Compilation: The process of translating high-level code into machine code.
+- Execution: Running the compiled program on a computer.
+
+---------------------------------------------------------------------------- 
+3. DATA TYPES AND VARIABLES
+- Data Types: Classify data according to type, e.g., integer, float, char, string, boolean.
+- Variable: A named memory location used to store data.
+- Constants: Fixed values that do not change during program execution.
+- Type Conversion: Changing data from one type to another, e.g., int to float.
+
+---------------------------------------------------------------------------- 
+4. OPERATORS
+- Arithmetic Operators: +, -, *, /, %, ++, --
+- Relational Operators: ==, !=, >, <, >=, <=
+- Logical Operators: && (AND), || (OR), ! (NOT)
+- Assignment Operators: =, +=, -=, *=, /=
+- Bitwise Operators: &, |, ^, <<, >>
+
+---------------------------------------------------------------------------- 
+5. INPUT AND OUTPUT
+- Input: Getting data from the user using statements like input() in Python or scanf() in C.
+- Output: Displaying results using print() in Python or printf() in C.
+- Formatting: Displaying output in a structured and readable form.
+
+---------------------------------------------------------------------------- 
+6. CONTROL STRUCTURES
+- Sequential: Statements execute one after another.
+- Conditional (Decision Making): if, if-else, nested if, switch-case.
+- Looping (Iteration): for, while, do-while loops.
+- Break and Continue: Used to alter the flow inside loops.
+
+---------------------------------------------------------------------------- 
+7. FUNCTIONS AND PROCEDURES
+- Function: A block of code that performs a specific task and can return a value.
+- Procedure/Method: Similar to a function but may not return a value.
+- Parameters and Arguments: Inputs provided to functions for processing.
+- Recursion: A function calling itself to solve a problem.
+
+---------------------------------------------------------------------------- 
+8. ARRAYS AND STRINGS
+- Array: Collection of elements of the same data type stored in contiguous memory.
+- String: Sequence of characters; can be treated as an array of characters.
+- Operations: Traversing, inserting, deleting, searching, sorting.
+
+---------------------------------------------------------------------------- 
+9. LOGICAL THINKING AND PROBLEM SOLVING
+- Stepwise Refinement: Breaking a complex problem into smaller, manageable parts.
+- Debugging: Identifying and correcting errors in a program.
+- Dry Run: Manually tracing the program to verify correctness.
+- Logical Operators and Decision Trees: Tools to design program logic.
+
+---------------------------------------------------------------------------- 
+SUMMARY
+Understanding programming concepts and logic enables students to design algorithms, write efficient code, and solve computational problems. These fundamentals are essential for learning any programming language and building real-world applications.
+----------------------------------------------------------------------------
+----------------------COPY THE LINK BELOW FOR THE DETAILED VIDEO-----------------------------------
+      https://www.youtube.com/watch?v=cMYTV8nCoJg&list=PLY4RrpSlLM6vQSYVNcNxLjjI-wjUhdQJe

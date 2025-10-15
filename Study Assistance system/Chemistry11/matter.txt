@@ -1,0 +1,35 @@
+CHEMISTRY – Grade 11 (Nepal Curriculum)
+------------------------------------------------
+
+ STATES OF MATTER
+- **Introduction:** Matter exists mainly in three states – Solid, Liquid, Gas; can also exist in Plasma.
+- **Characteristics of States:**
+  - **Solid:** Definite shape and volume, particles closely packed, strong intermolecular forces, vibrational motion.
+  - **Liquid:** Definite volume, takes shape of container, particles moderately packed, translational and rotational motion.
+  - **Gas:** No definite shape or volume, particles far apart, weak forces, free motion.
+  - **Plasma:** Ionized gas, conducts electricity, found in stars and lightning.
+- **Kinetic Molecular Theory (KMT):**
+  - Particles in matter are in constant motion.
+  - Particle motion explains properties of solids, liquids, and gases.
+- **Intermolecular Forces:** Forces between molecules affecting melting, boiling, and vaporization.
+  - Van der Waals forces, Hydrogen bonding, Dipole-dipole interaction.
+- **Change of States (Phase Transitions):**
+  - Melting: Solid → Liquid
+  - Freezing: Liquid → Solid
+  - Vaporization: Liquid → Gas
+    - Evaporation: Surface liquid molecules escape
+    - Boiling: Bulk liquid vaporizes at boiling point
+  - Condensation: Gas → Liquid
+  - Sublimation: Solid ↔ Gas directly
+- **Properties Related to States:**
+  - Density, Compressibility, Diffusion
+  - Gas laws: Boyle’s law, Charles’ law, Avogadro’s law
+- **Applications:** Understanding chemical reactions, gas behavior, industrial processes.
+
+  conclusion:
+- **States of Matter:** Explains physical behavior of substances; important for thermodynamics and material science.
+------------------------------------------------
+
+----------------------COPY THE LINK BELOW FOR DETAILED VIDEO------------------------------
+          https://www.youtube.com/watch?v=H4h4vsJ9it0&list=PLF_7kfnwLFCEzJZWNHb_K9tFC78F0AXOl
+

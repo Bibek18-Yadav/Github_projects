@@ -1,0 +1,77 @@
+COMPUTER SYSTEM AND SOFTWARE SYSTEM – Grade 11 Computer Science
+------------------------------------------------
+
+1. INTRODUCTION
+A computer system is an integrated set of hardware and software designed to process data into information. It performs input, processing, storage, and output operations efficiently. Understanding computer and software systems is essential for problem-solving and programming.
+
+------------------------------------------------
+2. COMPUTER SYSTEM
+- Definition: An electronic device that takes input, processes it, stores data, and produces output.
+- Components:
+  1. Hardware: Physical components like CPU, memory, input/output devices.
+  2. Software: Programs and instructions that tell hardware how to perform tasks.
+  3. Users: People who interact with the system.
+
+- Basic Operations:
+  - Input: Entering data using devices like keyboard, mouse.
+  - Processing: CPU processes data according to instructions.
+  - Storage: Saving data temporarily (RAM) or permanently (Hard disk).
+  - Output: Displaying results via monitor, printer, or other devices.
+
+------------------------------------------------
+3. HARDWARE COMPONENTS
+- Central Processing Unit (CPU): Brain of the computer, executes instructions.
+  - Control Unit (CU): Directs operations of CPU.
+  - Arithmetic Logic Unit (ALU): Performs arithmetic and logical operations.
+- Memory:
+  - Primary Memory: RAM (volatile), ROM (non-volatile).
+  - Secondary Memory: Hard disk, SSD, optical drives.
+- Input Devices: Keyboard, mouse, scanner, microphone.
+- Output Devices: Monitor, printer, speakers.
+- Storage Devices: HDD, SSD, flash drives, cloud storage.
+
+------------------------------------------------
+4. SOFTWARE SYSTEM
+- Definition: Set of instructions that make the computer perform tasks.
+- Types:
+  1. System Software: Helps computer run and manage hardware.
+     - Operating System (OS): Manages hardware, software, and resources.
+     - Utility Programs: Perform maintenance tasks like antivirus, file management.
+  2. Application Software: Programs designed for users to perform specific tasks (e.g., MS Office, web browsers, graphics software).
+
+- Programming Languages: Tools to write software (e.g., Python, Java, C++).
+  - Compiler: Converts high-level code to machine code.
+  - Interpreter: Executes code line by line.
+
+------------------------------------------------
+5. OPERATING SYSTEM (OS)
+- Functions:
+  - Resource Management: CPU, memory, and storage allocation.
+  - File Management: Create, delete, organize files and folders.
+  - User Interface: Command-line or graphical interface for users.
+  - Security: Protect data and manage user access.
+- Examples: Windows, Linux, macOS, Android.
+
+------------------------------------------------
+6. SOFTWARE DEVELOPMENT
+- Steps:
+  1. Requirement Analysis
+  2. Design
+  3. Implementation (Coding)
+  4. Testing
+  5. Deployment
+  6. Maintenance
+- Software Life Cycle: Continuous process from development to retirement.
+
+------------------------------------------------
+7. COMPUTER NETWORKING (BASIC IDEA)
+- Computer networks connect multiple computers for sharing resources.
+- Types: LAN (Local Area Network), WAN (Wide Area Network), MAN (Metropolitan Area Network).
+- Internet: Global network connecting millions of computers.
+
+------------------------------------------------
+SUMMARY
+Computer systems consist of hardware, software, and users working together to process data into meaningful information. Software systems, including operating systems and applications, are essential for utilizing computer hardware effectively. Understanding these fundamentals is key for programming, system design, and technology applications.
+------------------------------------------------
+-------------------COPY THE LINK BELOW FOR THE DETAILED VIDEO------------------------
+         https://www.youtube.com/watch?v=jPjimIJ-Mr8

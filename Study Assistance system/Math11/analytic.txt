@@ -1,0 +1,47 @@
+Analytic Geometry — Grade 11 — Nepal
+
+1. STRAIGHT LINE
+   • Definition: The set of all points (x, y) satisfying a linear equation in x and y (first degree)
+   • General form: Ax + By + C = 0, with A, B not both zero
+   • Slope‑intercept form: y = m x + c, where m = slope, c = y‑intercept
+   • Point‑slope form: y – y1 = m (x – x1)
+   • Two‑point form: (y – y1)/(y2 – y1) = (x – x1)/(x2 – x1)
+   • Intercept form: x/a + y/b = 1 (if a, b ≠ 0)
+   • Normal / perpendicular (or “normal form”): x cos α + y sin α = p
+   • Slope (gradient), m = (y2 – y1)/(x2 – x1)
+   • Parallel lines: equal slopes, m1 = m2
+   • Perpendicular lines: product of slopes = –1, m1 × m2 = –1
+   • Length of perpendicular from point (x1, y1) to line Ax + By + C = 0:
+        |A x1 + B y1 + C| / √(A² + B²)
+   • Bisectors of angles between two lines: formula via equidistance from lines
+   • Region (two sides) of a line: sign of (Ax + By + C) determines which side of the line a point lies
+
+2. PAIR OF STRAIGHT LINES
+   • General second degree in x, y: Ax² + 2Hxy + By² + 2Gx + 2Fy + C = 0
+   • Condition for it to represent a pair of straight lines (through origin / not through origin)
+   • Homogeneous form: Ax² + 2Hxy + By² = 0
+   • Factorization into linear factors: (L1)(L2) = 0
+   • Angle between lines: tan θ = |2√(H² – AB)| / (A + B)
+   • Bisectors of lines in pair: lines which bisect the angles between the two given lines
+   • Condition for perpendicularity of the lines in the pair
+   • Special cases: concurrent lines, lines at given angle
+
+3. COORDINATES IN SPACE
+   • Points in space: (x, y, z) in 3D Cartesian coordinates
+   • Distance between two points in space:
+        d = √[ (x2 – x1)² + (y2 – y1)² + (z2 – z1)² ]
+   • Direction cosines: If line makes angles α, β, γ with x, y, z axes respectively, then
+        l = cos α, m = cos β, n = cos γ
+        l² + m² + n² = 1
+   • Direction ratios: proportional to direction cosines (e.g. a : b : c)
+   • Equation of a line in space:
+       – Symmetric form: (x – x1)/l = (y – y1)/m = (z – z1)/n
+       – Parametric form: x = x1 + l t, y = y1 + m t, z = z1 + n t
+
+(Optional additional sub‑points / applications)
+   • Equation of a line through intersection of two given lines
+   • Locus problems in plane and space
+   • Intersection of lines and planes (if covered)
+
+*******************COPY THE LINK BELOW OF YOUTUBE PALYLIST*********************************
+         https://www.youtube.com/watch?v=OqypWTBFEiM&list=PLAaLVFFKth0ZF0VB23pBIhZDfg9XSH5NN

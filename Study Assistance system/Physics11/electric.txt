@@ -1,0 +1,106 @@
+ELECTRICITY AND MAGNETISM – Grade 11 Physics (Nepal Curriculum)
+---------------------------------------------------------------
+
+1. INTRODUCTION
+Electricity and Magnetism are closely related branches of physics that study electric charges, electric and magnetic fields, and their interactions. 
+They form the foundation of electromagnetism — the theory explaining electric current, magnetic fields, and electromagnetic induction.
+
+---------------------------------------------------------------
+2. ELECTROSTATICS
+- Electric Charge: Property of matter due to which it experiences electric force. Two types – positive and negative.
+- Coulomb’s Law: Force between two point charges, 
+  F = k(q1q2)/r².
+- Electric Field (E): Region around a charge where another charge experiences a force. E = F/q.
+- Electric Field Lines: Imaginary lines showing direction of electric field.
+- Electric Potential (V): Work done to bring a unit positive charge from infinity to a point. V = W/q.
+- Relation between E and V: E = -dV/dr.
+- Equipotential Surfaces: Surfaces having the same potential.
+- Electric Dipole: Two equal and opposite charges separated by small distance.
+  Dipole Moment (p) = q × 2l.
+- Electric Flux: Flow of electric field through a surface.
+- Gauss’s Law: Net electric flux through a closed surface is proportional to total charge enclosed.
+  Φ = q/ε₀.
+
+---------------------------------------------------------------
+3. CAPACITANCE
+- Capacitor: Device used to store electric charge and energy.
+- Capacitance (C): Ratio of charge to potential difference, C = Q/V.
+- Unit: Farad (F).
+- Types of Capacitors: Parallel plate, spherical, cylindrical.
+- Factors Affecting Capacitance:
+  (i) Area of plates,
+  (ii) Distance between plates,
+  (iii) Dielectric medium.
+- Combination of Capacitors:
+  Series: 1/C = 1/C₁ + 1/C₂ + ...
+  Parallel: C = C₁ + C₂ + ...
+- Energy Stored in Capacitor: U = ½CV².
+
+---------------------------------------------------------------
+4. CURRENT ELECTRICITY
+- Electric Current (I): Rate of flow of charge, I = Q/t.
+- Drift Velocity (vd): Average velocity of electrons due to electric field.
+- Relation: I = neAvd.
+- Ohm’s Law: V = IR.
+- Resistance (R): Opposition to flow of current.
+  R = ρl/A, where ρ = resistivity.
+- Factors Affecting Resistance: Length, area, material, and temperature.
+- Combination of Resistors:
+  Series: R = R₁ + R₂ + ...
+  Parallel: 1/R = 1/R₁ + 1/R₂ + ...
+- Electric Power: P = VI = I²R = V²/R.
+- Electrical Energy: W = Pt = VIt.
+- Kirchhoff’s Laws:
+  1. Junction Rule: Sum of currents entering = Sum of currents leaving.
+  2. Loop Rule: Sum of potential differences in a closed loop = 0.
+
+---------------------------------------------------------------
+5. MAGNETISM
+- Magnet: Substance that attracts materials like iron, cobalt, nickel.
+- Magnetic Field (B): Region where magnetic force is experienced.
+- Magnetic Lines of Force: Imaginary lines showing the direction of magnetic field.
+- Magnetic Flux: Total number of magnetic field lines through a surface, Φ = B·A.
+- Earth’s Magnetism:
+  Magnetic axis, geographic axis, declination, and dip.
+- Magnetic Dipole: A bar magnet has a north and south pole separated by a distance.
+  Magnetic Moment (M) = pole strength × distance between poles.
+- Magnetic Field Due to:
+  (i) Straight current-carrying conductor: B = μ₀I/2πr.
+  (ii) Circular loop: B = μ₀I/2r at center.
+  (iii) Solenoid: B = μ₀nI.
+- Force on Moving Charge: F = qvB sinθ.
+- Force on Current-Carrying Conductor: F = BIL sinθ.
+- Torque on Coil: τ = nBIA sinθ.
+- Ampere’s Circuital Law: ∮B·dl = μ₀I.
+
+---------------------------------------------------------------
+6. MAGNETIC PROPERTIES OF MATERIALS
+- Diamagnetic: Weakly repelled by magnetic field (e.g., copper, silver).
+- Paramagnetic: Weakly attracted (e.g., aluminum, platinum).
+- Ferromagnetic: Strongly attracted (e.g., iron, cobalt, nickel).
+- Magnetic Permeability (μ): Ability of a material to allow magnetic field through it.
+- Magnetic Susceptibility (χ): Degree of magnetization, M = χH.
+
+---------------------------------------------------------------
+7. ELECTROMAGNETIC INDUCTION
+- Faraday’s Laws:
+  1. Induced emf is produced when magnetic flux changes.
+  2. Induced emf ∝ rate of change of magnetic flux.
+  emf = -dΦ/dt (negative sign shows Lenz’s Law).
+- Lenz’s Law: Direction of induced current opposes the change in flux.
+- Eddy Currents: Circulating currents induced in metal sheets.
+- Self-Induction: Induced emf in same coil due to change in its own current.
+  L = self-inductance, emf = -L(di/dt).
+- Mutual Induction: emf induced in a secondary coil due to changing current in primary coil.
+  emf = -M(di/dt).
+- Energy Stored in Inductor: U = ½LI².
+
+---------------------------------------------------------------
+SUMMARY
+Electricity and Magnetism together explain the behavior of charges and currents in electric and magnetic fields. 
+They form the basis for modern technologies like motors, generators, transformers, and communication systems.
+
+---------------------------------------------------------------
+
+----------------------COPY THE LINK BELOW TO GET DETAILED VIDEO------------------------------
+           https://www.youtube.com/watch?v=2XRtH46dsCI&list=PLSQl0a2vh4HAtw9UfXpWWFRfheZYwHptr
